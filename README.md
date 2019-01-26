@@ -1,7 +1,3 @@
-# TextEditor-Python
-A GUI Text editor made using tkinter
-
-
 <div align="center"><h1> TextEditor-Python </h1> </div>
 <div align="center"> In this repo, I will show you  "A GUI Text editor made using tkinter". </div>
 
